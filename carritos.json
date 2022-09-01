@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1661810098565,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1661810279531,
+        "nombre": "Escuadra",
+        "descripcion": "Tiene 20 cm",
+        "codigo": "abc123",
+        "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+        "precio": 123,
+        "stock": 200
+      },
+      {
+        "id": 2,
+        "timestamp": 1661810328212,
+        "nombre": "Calculadora",
+        "descripcion": "Es científica",
+        "codigo": "zxc321",
+        "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+        "precio": 200,
+        "stock": 50
+      }
+    ]
+  }
+]

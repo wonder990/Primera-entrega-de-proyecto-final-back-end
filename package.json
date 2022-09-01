@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nicolas9412/Coderhouse-Back-End-32080.git"
+    "url": "https://github.com/wonder990/Primera-entrega-de-proyecto-final-back-end"
   },
-  "author": "Leandro Olmos",
+  "author": "Gustavo Fernandez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
